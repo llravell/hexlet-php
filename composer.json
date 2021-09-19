@@ -1,0 +1,16 @@
+{
+    "name": "vladimirsuragin/hexlet-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vladimirsuragin\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir Suragin",
+            "email": "v.suragin@yclients.tech"
+        }
+    ],
+    "require": {}
+}
