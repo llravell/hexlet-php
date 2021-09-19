@@ -4,7 +4,10 @@
     "autoload": {
         "psr-4": {
             "Vladimirsuragin\\HexletPhp\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
@@ -12,5 +15,7 @@
             "email": "v.suragin@yclients.tech"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
 }
